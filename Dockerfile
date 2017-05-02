@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:xenial
 MAINTAINER <Chris Hubbard> "chris_hubbard@sil.org"
 
 ENV REFRESHED_AT 2017-05-02
